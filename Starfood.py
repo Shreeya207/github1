@@ -1,0 +1,1 @@
+print("this is a starfood and you should eat it lol")
